@@ -1,5 +1,4 @@
 Manual Testing Project Process - >
-+--------------------------+
 |  Step 1:                |
 |  Understand the         |
 |  Application            |
